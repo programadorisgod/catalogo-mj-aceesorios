@@ -1,0 +1,1454 @@
+[
+    {
+        "id": "5fbaee98-fe22-4685-8024-caf0aabca9f3",
+        "name": "Anillo ANR100",
+        "image": "Anillo ANR100.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "a3cbe5a3-580d-4838-98ff-8931244affe2",
+        "name": "Anillo ANR108",
+        "image": "Anillo ANR108.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "0e8f2693-2dd0-40d8-924e-3e4418d1f122",
+        "name": "Anillo ANR110",
+        "image": "Anillo ANR110.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "bab3b23b-1921-45b2-85c1-e63abdae3580",
+        "name": "Anillo ANR114",
+        "image": "Anillo ANR114.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "7a23a68d-2655-4896-8ea0-6876f759d588",
+        "name": "Anillo ANR117",
+        "image": "Anillo ANR117.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "9d9b57c2-7faf-4b88-9c70-9c26dc2e0722",
+        "name": "Anillo ANR125",
+        "image": "Anillo ANR125.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "df836738-f2af-44e3-95bf-79fc9aaa9868",
+        "name": "Anillo ANR128",
+        "image": "Anillo ANR128.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "3a79a228-1863-4ab4-8b31-57f79553f1de",
+        "name": "Anillo ANR131",
+        "image": "Anillo ANR131.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "d1b2dc48-ed43-43af-b3d9-0523914f4807",
+        "name": "Anillo ANR134",
+        "image": "Anillo ANR134.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "bd2ae840-5cc3-4407-b1f2-1925b5ee5148",
+        "name": "Anillo ANR135",
+        "image": "Anillo ANR135.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "06a68920-defc-4ac4-8328-30e6f0f6831c",
+        "name": "Anillo ANR136",
+        "image": "Anillo ANR136.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "8c16192c-cb16-4d1c-b8bb-936b23b5a264",
+        "name": "Anillo ANR137",
+        "image": "Anillo ANR137.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "6897c099-53d8-4a67-b763-893aa46357e1",
+        "name": "Anillo ANR4",
+        "image": "Anillo ANR4.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "39e1141a-8a7a-4c7b-b5f2-81c097c35a97",
+        "name": "Anillo ANR42",
+        "image": "Anillo ANR42.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "2c9737ac-2524-4f58-8d3d-82c13b14957a",
+        "name": "Anillo ANR44",
+        "image": "Anillo ANR44.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "0bb2d1cd-b0b0-4753-ab2f-8bcfc7860bc5",
+        "name": "Anillo ANR48",
+        "image": "Anillo ANR48.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "c70cd3dd-46fb-48da-a9c2-963d026fa3e9",
+        "name": "Anillo ANR50",
+        "image": "Anillo ANR50.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "879bdfcd-1f33-4451-9c2a-b907bae130bb",
+        "name": "Anillo ANR58",
+        "image": "Anillo ANR58.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "2ce61863-445a-4a7e-87ce-d62cc3d87bec",
+        "name": "Anillo ANR60",
+        "image": "Anillo ANR60.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "e83d2c7b-75b1-468c-898b-5d6ed1ddbeeb",
+        "name": "Anillo ANR66",
+        "image": "Anillo ANR66.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "cbf6993f-0c30-4510-9ebb-f814c0b9279c",
+        "name": "Anillo ANR8",
+        "image": "Anillo ANR8.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "aedb0ac1-ed17-45e5-8857-abadeeeb42eb",
+        "name": "Anillo ANR80",
+        "image": "Anillo ANR80.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "50748aa7-a205-4184-9069-ae8cbecc7a16",
+        "name": "Anillo ANR83",
+        "image": "Anillo ANR83.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "7c16a6b4-2230-4a67-9a72-0aae92af20b4",
+        "name": "Anillo ANR93",
+        "image": "Anillo ANR93.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "2b13f53d-b45a-4f3c-9ef9-edd348df5e91",
+        "name": "Anillo ANR94",
+        "image": "Anillo ANR94.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "49ffee97-f434-4554-8f2a-54def7c614c7",
+        "name": "Anillo ANR95",
+        "image": "Anillo ANR95.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "61b9b8c4-5bfd-472c-b2d6-4d32fd7e89b9",
+        "name": "Anillo D1261",
+        "image": "Anillo D1261.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "d95058ba-1978-4baf-8537-a7da8ac120dd",
+        "name": "Anillo D1379",
+        "image": "Anillo D1379.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "54db0ab3-b89c-4f47-bd65-95cf036e3e81",
+        "name": "Anillo D1414",
+        "image": "Anillo D1414.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "dcc45dab-4c2b-4f94-82b8-3ebeeee368b5",
+        "name": "Anillo D144",
+        "image": "Anillo D144.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "d1feaeb9-58e7-416b-ad2a-b33a7a533845",
+        "name": "Anillo D1458",
+        "image": "Anillo D1458.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "85d8c21e-cb30-4439-bf14-2d2500cc1857",
+        "name": "Anillo D1552",
+        "image": "Anillo D1552.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "4168214b-c54c-45a0-8ad9-55c6faaae85e",
+        "name": "Anillo D1553",
+        "image": "Anillo D1553.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "84201496-79ca-41e4-b2e1-0c24b9eca64c",
+        "name": "Anillo D1555",
+        "image": "Anillo D1555.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "9b7d4d8a-cdb1-4048-90a3-54e438497f02",
+        "name": "Anillo D1556",
+        "image": "Anillo D1556.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "653194ff-9311-48d6-99e4-101c8d38bfa6",
+        "name": "Anillo D1561",
+        "image": "Anillo D1561.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "11c9964f-f0ba-410f-9011-e4f3c7649802",
+        "name": "Anillo D1606",
+        "image": "Anillo D1606.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "37612cc0-930f-4568-a480-4f5d803d5786",
+        "name": "Anillo D1607",
+        "image": "Anillo D1607.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "9ba2993f-d195-4ff2-bf94-3a0128102fe7",
+        "name": "Anillo D1617",
+        "image": "Anillo D1617.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "f2d1f36d-7f90-492c-81e8-35e97f25a2ef",
+        "name": "Anillo D1631",
+        "image": "Anillo D1631.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "432c318f-8c95-4564-a6b8-d6562ccb64f8",
+        "name": "Anillo D1632",
+        "image": "Anillo D1632.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "da19065e-9152-499a-b618-127b428e90f5",
+        "name": "Anillo D1637",
+        "image": "Anillo D1637.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "842037b3-b1d6-41e3-84a8-58001a46fa04",
+        "name": "Anillo D1639",
+        "image": "Anillo D1639.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "f6e41704-af00-4fc0-8264-0047a026f80b",
+        "name": "Anillo D1650",
+        "image": "Anillo D1650.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "7dfae311-09fe-47fd-a9b0-867919373523",
+        "name": "Anillo D1652",
+        "image": "Anillo D1652.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "25d4cc05-621e-45b6-910c-37fa5c6be61b",
+        "name": "Anillo D1653",
+        "image": "Anillo D1653.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "97b3171b-d342-4a2f-a92a-c800721619cb",
+        "name": "Anillo D1654",
+        "image": "Anillo D1654.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "b4c5fc8a-3371-477d-83f0-2063667bd563",
+        "name": "Anillo D1656",
+        "image": "Anillo D1656.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "fa9e24bd-cc13-4a45-98ac-5dfbf01eb7d5",
+        "name": "Anillo D1665",
+        "image": "Anillo D1665.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "7d60dd6c-0b14-4fff-9cf4-bfb37eb130ae",
+        "name": "Anillo D1667",
+        "image": "Anillo D1667.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "8e27b705-645a-43a3-8217-a40466f4a26a",
+        "name": "Anillo D1686",
+        "image": "Anillo D1686.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "70e7cfd5-6500-4cd0-bf04-690b7b557166",
+        "name": "Anillo D1690",
+        "image": "Anillo D1690.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "486b75d6-d6e3-4005-850e-3c89454a7fe8",
+        "name": "Anillo D1692",
+        "image": "Anillo D1692.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "027c3ab1-6440-4f46-ac88-13328f5a9450",
+        "name": "Anillo D1693",
+        "image": "Anillo D1693.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "128bc562-c630-47e3-895a-d2c78fe71239",
+        "name": "Anillo D1694",
+        "image": "Anillo D1694.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "e9e330cd-5da7-4bf5-8dcb-2d0cef26ab80",
+        "name": "Anillo D1695",
+        "image": "Anillo D1695.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "a5f3ad05-e27b-4baf-9fd7-a1217e78f835",
+        "name": "Anillo D1697",
+        "image": "Anillo D1697.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "eb1b9986-ee02-4a63-9640-91941ef929c4",
+        "name": "Anillo D1698",
+        "image": "Anillo D1698.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "ab93390c-2b08-4be7-817b-bbd213936f38",
+        "name": "Anillo D1755",
+        "image": "Anillo D1755.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "f4dd503b-26b5-4106-bc75-6dcddc259b9c",
+        "name": "Anillo D1756",
+        "image": "Anillo D1756.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "46503d2d-1691-4367-8413-52bedbdb3b5f",
+        "name": "Anillo D1757",
+        "image": "Anillo D1757.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "76e9c74b-57ec-4f4b-8ef0-5002bc3163c9",
+        "name": "Anillo D1800",
+        "image": "Anillo D1800.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "ef42b6e2-f0c1-45cc-8403-d86e5c6d9c9a",
+        "name": "Anillo D1801",
+        "image": "Anillo D1801.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "a6f1489f-0b41-4b0b-9082-f9ca701453df",
+        "name": "Anillo D1805",
+        "image": "Anillo D1805.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "18cc46ba-0634-4aee-b2d8-4b7f678f3be0",
+        "name": "Anillo D1930",
+        "image": "Anillo D1930.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "0e8bbd8d-68f6-4226-a0ab-2a88f342f062",
+        "name": "Anillo D1931",
+        "image": "Anillo D1931.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "ed4380b9-f908-4ce0-84b2-cb2f0d4caba7",
+        "name": "Anillo D1932",
+        "image": "Anillo D1932.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "aa4a8b79-1b63-4135-b9d1-74a4b1e18686",
+        "name": "Anillo D1939",
+        "image": "Anillo D1939.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "11b045fe-3376-4814-bf93-2cea8ed2e033",
+        "name": "Anillo D1945",
+        "image": "Anillo D1945.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "de1de55c-ad92-4c2d-8869-a0e3a22b11a8",
+        "name": "Anillo D2046",
+        "image": "Anillo D2046.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "dac22f30-09d0-4e43-9bdf-9b52e98489f3",
+        "name": "Anillo D2049",
+        "image": "Anillo D2049.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "3f72a9a2-4f1a-41ed-9e21-cb4af42f23db",
+        "name": "Anillo D2053",
+        "image": "Anillo D2053.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "855e70a1-67a7-47f4-85f1-40fd9f0f2bb0",
+        "name": "Anillo D2054",
+        "image": "Anillo D2054.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "c9129070-6a6f-4197-9163-c3a20f65637d",
+        "name": "Anillo D2095",
+        "image": "Anillo D2095.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "a8497e46-9ad5-47c0-b3a3-9a92bce7b8b1",
+        "name": "Anillo D2096",
+        "image": "Anillo D2096.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "73c6a011-c6f6-40fc-9803-452745cbb59e",
+        "name": "Anillo D2188",
+        "image": "Anillo D2188.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "00164938-efe0-4330-8c05-e534daa98a7a",
+        "name": "Anillo D2192",
+        "image": "Anillo D2192.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "6062f5f0-8697-471c-ae5c-425b0c6a5a67",
+        "name": "Anillo D2193",
+        "image": "Anillo D2193.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "cb16d751-adf2-483c-99df-009ac09cfae8",
+        "name": "Anillo D2194",
+        "image": "Anillo D2194.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "3c3a585f-97c2-4b2d-ad5b-a1f56f609df0",
+        "name": "Anillo D2207",
+        "image": "Anillo D2207.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "896216ed-83d3-49bf-9ffe-d4a3d0a8d759",
+        "name": "Anillo D2208",
+        "image": "Anillo D2208.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "f63a06c0-fe53-421f-999c-328a0490ee2b",
+        "name": "Anillo D2231",
+        "image": "Anillo D2231.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "58979f7c-8826-4434-9a12-29b974e16700",
+        "name": "Anillo D2232",
+        "image": "Anillo D2232.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "65b84386-a82b-43f5-a1b3-f8205118f112",
+        "name": "Anillo D2235",
+        "image": "Anillo D2235.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "705f3b84-6772-4662-8456-cc6be5075e80",
+        "name": "Anillo D2240",
+        "image": "Anillo D2240.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "a3431897-2b82-480d-93ac-f2191268c8ce",
+        "name": "Anillo D2241",
+        "image": "Anillo D2241.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "5fa8b673-a435-4281-823d-2571f4fa4445",
+        "name": "Anillo D2501",
+        "image": "Anillo D2501.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "01f9db50-40af-4e96-b954-20f19d767dd8",
+        "name": "Anillo D266",
+        "image": "Anillo D266.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "d00278a7-564f-4b50-9087-16d09b5d116c",
+        "name": "Anillo D272",
+        "image": "Anillo D272.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "bb6f8db1-b3a7-4d91-9b50-60ec4b387b1c",
+        "name": "Anillo D479",
+        "image": "Anillo D479.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "e7799e67-a59c-4c8f-a33f-95327ca5f93a",
+        "name": "Anillo D55",
+        "image": "Anillo D55.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "c8d86346-90b4-4790-982a-7172ff42042e",
+        "name": "Anillo D593",
+        "image": "Anillo D593.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "143b4406-eeeb-4b33-a5b7-02edef1d810b",
+        "name": "Anillo D759",
+        "image": "Anillo D759.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "d7594ba3-4fe9-416c-ab53-dd5092a42086",
+        "name": "Anillo D760",
+        "image": "Anillo D760.jpeg",
+        "categoria": "anillos"
+    },
+    {
+        "id": "f3920a7a-3e7a-43c0-9b43-d4cfa3b12f91",
+        "name": "Anillo D895",
+        "image": "Anillo D895.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "8dae14bb-eac0-4e46-9733-811dacc8bc87",
+        "name": "Anillo D927",
+        "image": "Anillo D927.png",
+        "categoria": "anillos"
+    },
+    {
+        "id": "377fdc06-cad3-4c78-84c1-54231a665ec0",
+        "name": "Candonga CDGR100",
+        "image": "Candonga CDGR100.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "1651268b-8287-402d-8459-953ba879df92",
+        "name": "Candonga CDGR110",
+        "image": "Candonga CDGR110.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "ed22a330-3d45-4cde-a1dd-1ffd548a61f8",
+        "name": "Candonga CDGR111",
+        "image": "Candonga CDGR111.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "d6570b5b-a3d3-4e79-b108-e9486f828d52",
+        "name": "Candonga CDGR113",
+        "image": "Candonga CDGR113.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "a3ac58dc-7a19-4786-810f-651dd6bebf95",
+        "name": "Candonga CDGR119",
+        "image": "Candonga CDGR119.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "666f0be5-c220-4770-b4ee-ed241198eb8a",
+        "name": "Candonga CDGR18",
+        "image": "Candonga CDGR18.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "5b89b239-8b6f-4260-a176-8add9fb90fb2",
+        "name": "Candonga CDGR57",
+        "image": "Candonga CDGR57.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f3a47ede-421b-41fe-a964-a0f6ea60c89b",
+        "name": "Candonga CDGR72",
+        "image": "Candonga CDGR72.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "ea78f8c2-16ba-4649-ad27-e65ed21b29e0",
+        "name": "Candonga CDGR89",
+        "image": "Candonga CDGR89.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "5c8b739a-52e2-4c1b-942f-13a93681cb61",
+        "name": "Candonga CDGR93",
+        "image": "Candonga CDGR93.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "cf9d8560-5bb0-4d2d-872a-3d22d74f37a4",
+        "name": "Candonga D126",
+        "image": "Candonga D126.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "0d1f736a-14e6-45dd-9768-ed4192b05033",
+        "name": "Candonga D128",
+        "image": "Candonga D128.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "e876c13a-ce78-4ab4-8163-366b45a51c5f",
+        "name": "Candonga D134",
+        "image": "Candonga D134.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "2abe8033-a452-4bea-a328-567b3b55dc91",
+        "name": "Candonga D1349",
+        "image": "Candonga D1349.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "9cefa20c-4f47-468d-9ed9-dec7456f93ca",
+        "name": "Candonga D1356",
+        "image": "Candonga D1356.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "216e0234-b95f-44cb-b877-92df1333bcf2",
+        "name": "Candonga D1358",
+        "image": "Candonga D1358.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b3c613e8-5cb7-40c9-8896-09586968390d",
+        "name": "Candonga D1494",
+        "image": "Candonga D1494.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "82639f07-903a-48a9-b1a0-ec1a33e955e0",
+        "name": "Candonga D1565",
+        "image": "Candonga D1565.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "ca1b4211-e1b0-4701-af13-696e5b820913",
+        "name": "Candonga D1660",
+        "image": "Candonga D1660.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "380b1a55-686e-4c9f-a67f-6f3306e94005",
+        "name": "Candonga D1662",
+        "image": "Candonga D1662.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "670f8fa3-36c5-48ef-9ef8-b0bcbc808a1b",
+        "name": "Candonga D1663",
+        "image": "Candonga D1663.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "c6fa743b-8de1-46af-9123-18763ea7b2f0",
+        "name": "Candonga D1696",
+        "image": "Candonga D1696.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "faafd438-3229-4a77-97d7-24690d26e7ff",
+        "name": "Candonga D1842",
+        "image": "Candonga D1842.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "2d83e500-4551-48a2-af4e-23790dd80af0",
+        "name": "Candonga D1887",
+        "image": "Candonga D1887.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "52ab0360-08d4-43ce-93d4-565fc690db3d",
+        "name": "Candonga D1915",
+        "image": "Candonga D1915.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "492b8638-468c-457c-9fa5-418a68acca96",
+        "name": "Candonga D1916",
+        "image": "Candonga D1916.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f0f618e6-0998-463d-9b90-1cae52d18f13",
+        "name": "Candonga D1917",
+        "image": "Candonga D1917.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "8ef364fa-97d8-4629-8257-efec3a16f84c",
+        "name": "Candonga D1963",
+        "image": "Candonga D1963.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "89292f67-a591-4359-b311-452efa6cea10",
+        "name": "Candonga D1965",
+        "image": "Candonga D1965.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "72a2ac86-3aef-442d-a59d-59e270bc0960",
+        "name": "Candonga D1967",
+        "image": "Candonga D1967.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "d7b4a019-8339-4071-91f9-e308a181be79",
+        "name": "Candonga D1968",
+        "image": "Candonga D1968.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "7742a1f2-8587-4c89-ae2e-17c3c0ae5d57",
+        "name": "Candonga D1969",
+        "image": "Candonga D1969.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "7d2d2655-1a05-4927-b4c6-276823e02802",
+        "name": "Candonga D2185",
+        "image": "Candonga D2185.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "eca045da-df78-4da5-bc99-3e2aded0aa85",
+        "name": "Candonga D445",
+        "image": "Candonga D445.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f103bf2c-fc50-40eb-8f61-bf661bf895a5",
+        "name": "Candonga D74",
+        "image": "Candonga D74.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "1f14ef60-08db-425f-a48c-ebca5b02636c",
+        "name": "Candonga D79",
+        "image": "Candonga D79.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "eed7a271-4f84-4b39-ab6c-cd270796b006",
+        "name": "Candonga D940",
+        "image": "Candonga D940.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "58945e6c-b7a1-4d9a-acbf-ea44511b9240",
+        "name": "Set Topos",
+        "image": "Set Topos D2409.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "88170b83-f5f2-41c9-a01f-2fffc7542656",
+        "name": "Topo Ballena",
+        "image": "Topo Ballena D2144.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "3b963a86-21d4-4151-af0c-3f761b2809d7",
+        "name": "Topo Balín",
+        "image": "Topo Balín D840.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "d067e0e3-5828-46f7-a562-c6f66876244f",
+        "name": "Topo Balín",
+        "image": "Topo Balín D841.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "c728ac41-d360-48ed-82a8-46ae5da0a3e9",
+        "name": "Topo Balín",
+        "image": "Topo Balín D842.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b19b3c4e-2bc0-4827-8d34-787f34259ce4",
+        "name": "Topo Bicho",
+        "image": "Topo Bicho D1813.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "89cf1ac6-64de-42d3-8cf9-4635a50f06dd",
+        "name": "Topo Caracol",
+        "image": "Topo Caracol D1625.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "cf1ef7b4-d79a-49e3-b087-41eddded193c",
+        "name": "Topo Caracol",
+        "image": "Topo Caracol D1797.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "3aa36931-05b0-4017-90e0-9a0e9ffde756",
+        "name": "Topo Caracol",
+        "image": "Topo Caracol D2433.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "7878df32-90b5-477a-abf3-a0741fc53ea2",
+        "name": "Topo Cereza",
+        "image": "Topo Cereza D2478.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "e2c1d415-8d0a-4650-8c45-9c7b0ee485de",
+        "name": "Topo Circones",
+        "image": "Topo Circones D309.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b23cec6c-5e80-4160-be92-e298ce3916ff",
+        "name": "Topo Concha",
+        "image": "Topo Concha D1621.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "34326ce0-cb91-48e2-adb3-bcdd0f6f74d1",
+        "name": "Topo Concha",
+        "image": "Topo Concha D1622.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b69a0f95-8182-48a8-ab8e-e9086f1515d2",
+        "name": "Topo Concha",
+        "image": "Topo Concha D2431.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f45ae505-6e05-4437-b142-81856f6f7b45",
+        "name": "Topo Concha",
+        "image": "Topo Concha D2432.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "fd96f4f7-a0b5-496d-afea-2e3626645685",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1143.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "2cf36d42-1df7-41f9-934d-27a499b8537e",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1154.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "199c925c-908e-43da-96a8-93234f550100",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1354.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "5c1c2e2c-b46e-4cfe-adbb-7bfadecd58cc",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1363.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "fc9c4188-af1f-4d94-bfd6-94d970471338",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1595.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "6edb89f6-b2a9-487e-99e2-940030c30706",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1598.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "c7c4aa89-f025-4d0d-a9ea-54778a62bd4c",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D1786.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "9f7e951f-afdd-4e0b-97f9-87cb20f537ee",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D2183.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "31db0f72-742d-476d-b388-f9f555da3e39",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D2202.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f06f8df9-e2f4-41cb-83e8-ab478916014d",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D310.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "8d1379b1-75c8-42b7-aac0-a86028f11573",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D322.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "363cb298-7cfa-4b3a-b367-2144285c9d07",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D4.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "6345e6f0-fe9a-48eb-9309-0bdd6982c148",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D404.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "8dc62dcb-79ac-4d8c-924c-3dd16a784958",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D597.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "90ce4d12-46bb-451b-bcf5-58cbc0863d52",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D673.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "194cd47d-7e82-4c24-b26f-364fc75b30c1",
+        "name": "Topo Corazón",
+        "image": "Topo Corazón D836.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "25d97464-94b6-40cd-aec0-11b01306e492",
+        "name": "Topo Flor",
+        "image": "Topo Flor D1419.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "ba97dd77-7308-4c50-9976-a4e12efd23b9",
+        "name": "Topo Flor",
+        "image": "Topo Flor D1470.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "2859b42a-27a6-4c42-98ec-04d82e963671",
+        "name": "Topo Flor",
+        "image": "Topo Flor D1646.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "c0d81c9f-98e1-4b31-ada3-3461af68a704",
+        "name": "Topo Flor",
+        "image": "Topo Flor D1836.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "de2449a7-e8b8-4b53-997b-9328eb6af6e1",
+        "name": "Topo Flor",
+        "image": "Topo Flor D2212.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b8c1802e-3677-4f68-96c7-396ba6d39c4e",
+        "name": "Topo Flor",
+        "image": "Topo Flor D956.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "a5d82ccb-51a7-4e2b-b036-b4483aa807eb",
+        "name": "Topo Gota",
+        "image": "Topo Gota D1451.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "cec1b2bb-dbce-432d-8260-5096aa6c5bdb",
+        "name": "Topo Gota",
+        "image": "Topo Gota D451.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "767a807c-58bb-4a1a-9e61-7295b8ec8a59",
+        "name": "Topo Lineas",
+        "image": "Topo Lineas D1647.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "5d4af288-6b40-4fd4-ac91-16a74ceeae8a",
+        "name": "Topo Lineas",
+        "image": "Topo Lineas D1649.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f897d224-5893-421a-8f37-9ccc56d53b06",
+        "name": "Topo Lineas",
+        "image": "Topo Lineas D2151.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "736eac55-b5d5-47e2-9e9a-92e79024a444",
+        "name": "Topo Liso",
+        "image": "Topo Liso D1875.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "8a8714a7-b03b-40c9-a830-cff07df334b8",
+        "name": "Topo Liso",
+        "image": "Topo Liso D447.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "9783f414-259d-466c-a56a-c976a564dab4",
+        "name": "Topo Liso",
+        "image": "Topo Liso D476.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "073aa721-dc60-4b8f-aac8-a5c7c260bc60",
+        "name": "Topo Liso",
+        "image": "Topo Liso D832.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "6cb535d0-0aa0-4272-a18d-8754928a96f0",
+        "name": "Topo Moño",
+        "image": "Topo Moño TPOR42.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "161a0381-2db2-44d8-b941-2b70a0862cd5",
+        "name": "Topo Moño",
+        "image": "Topo Moño TPOR43.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "9499ee41-465b-4e3c-a5e4-9094cfc62892",
+        "name": "Topo Oso",
+        "image": "Topo Oso D925.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "34c53617-4a46-4674-8654-39fa0e3f6531",
+        "name": "Topo Perla",
+        "image": "Topo Perla D1687.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "1f5df81a-c008-4c3c-9566-db8e4b3d049d",
+        "name": "Topo Perro",
+        "image": "Topo Perro D1971.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "b945164f-d152-46d1-98b2-b9d23d585509",
+        "name": "Topo San",
+        "image": "Topo San Benito D441.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "61c132a6-d8d3-44ab-b921-62b0cf90873a",
+        "name": "Topo Trébol",
+        "image": "Topo Trébol D1942.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "341e815a-a560-430e-ad82-016d929012c0",
+        "name": "Topo Trébol",
+        "image": "Topo Trébol D269.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "24d5a501-1ce4-4a0e-a702-d7b983cbe1ee",
+        "name": "Topo Trébol",
+        "image": "Topo Trébol D932.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "f6a9f45e-a53b-4594-af41-b7b408adbc75",
+        "name": "Topo Trébol",
+        "image": "Topo Trébol D933.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "50824d48-e10f-4265-9b3c-1c5d552bc45f",
+        "name": "Topo Virgen",
+        "image": "Topo Virgen D452.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "75d0a1e0-cf82-4789-89f3-5aa345894160",
+        "name": "Topo Virgen",
+        "image": "Topo Virgen D478.png",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "9568ce82-935e-4ab0-bc56-63296412badc",
+        "name": "Topo Virgen",
+        "image": "Topo Virgen D485.jpeg",
+        "categoria": "candongas y topos"
+    },
+    {
+        "id": "6fee05f5-e431-4e23-bd7e-f3635d75a763",
+        "name": "Brazalete D1587",
+        "image": "Brazalete D1587.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "ba6c0172-ad4d-40e4-abdd-7a8eb3d00c7e",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D1340.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "4ae21858-37e4-4f69-8135-b4c93b748428",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D1341.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "2629e0b5-f4ed-44a1-add2-8d516ac4bdc5",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D2156.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "741e8aa3-e694-453f-a577-0312390c69a4",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D216.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "4b5c6038-ff97-4189-b5c5-d03c9bc8c1b6",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D2161.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "d15d8ec0-6c14-4f9f-8cc5-1fd3b6bb79b0",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D217.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "9211feb8-a39c-425d-8eb9-2ca676b37ff4",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D222.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "17f33b91-d6a1-4aff-a73a-ee3fb3b166aa",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D223.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "b54ac67d-da16-41b5-883f-4e1318a9d8ff",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D224.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "c06dfd53-a9e6-403b-bd8b-34ec6f72335d",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D229.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "d4d432fe-cb66-4b4d-a288-6300b0b7cd5b",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D232.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "bc773707-f320-4950-80a4-6adf5336399c",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D233.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "0d959971-fe8a-45e6-adef-de5230748267",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D234.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "d055c3d5-8808-42ce-a178-319ba816bbe3",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D242.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "2a58ed51-76ec-4ebd-b5ff-1438edc833b7",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D243.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "fc9dd8d7-392f-4410-8dbb-703b7cd2f072",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D303.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "c2e8ad34-1114-42a3-9426-53fb596df0eb",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines D305.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "e56d8c99-a91f-47f6-8bf2-96a3ad8b90a9",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR1.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "6801f984-0bf6-4923-96e2-30dd46b6c939",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR14.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "aac715ff-5f22-4508-bc29-ed485c87f1ff",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR15.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "a619b4d8-095b-47a1-94ce-4aeb30dc9597",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR16.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "974b5342-96b1-4b57-91e2-21cd3742464f",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR17.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "4c6884f2-48a4-4566-9241-553534bd7181",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR18.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "09b2e5a2-cbbd-49f6-ab57-7794882ba0f1",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR19.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "a3afbe1b-c62b-4cd9-986a-d8b3a65ac050",
+        "name": "Pulsera Balines",
+        "image": "Pulsera Balines PULR32.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "e5bd8ef8-8361-46b3-93c3-2a25a3120c7a",
+        "name": "Pulsera Corazón",
+        "image": "Pulsera Corazón D2519.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "c07af50a-b55e-4416-913a-5e89c83622ae",
+        "name": "Pulsera Eslabones",
+        "image": "Pulsera Eslabones D2460.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "557682b2-ebe3-4935-873a-a53ae0653e11",
+        "name": "Pulsera Gucci",
+        "image": "Pulsera Gucci D2106.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "b0d7eb45-2d2a-4c3e-8436-e5001a793ee5",
+        "name": "Pulsera Lisa",
+        "image": "Pulsera Lisa D1339.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "d65b313f-1c55-4f8e-97bb-d9ab7ff1e0f1",
+        "name": "Pulsera Lisa",
+        "image": "Pulsera Lisa D2459.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "eac64b9f-cc84-4678-a4e8-0716b5eed889",
+        "name": "Pulsera Lisa",
+        "image": "Pulsera Lisa D2518.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "67acf480-9a2c-47ef-a038-539aad465639",
+        "name": "Pulsera Lisa",
+        "image": "Pulsera Lisa PULR20.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "9d9b367c-d86e-4a68-823e-4af69134919c",
+        "name": "Pulsera Ovalos",
+        "image": "Pulsera Ovalos D2484.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "c6b73207-cbf0-4868-b051-c9bc50b0820c",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D1790.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "43570f0e-b872-4201-ac7b-ca6e4d3b7fd9",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D1791.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "63f99063-fdbc-4e31-a4f4-fff2c17ce8b8",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D1792.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "a508c401-614c-4780-a134-8bd7135236bd",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D1793.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "541e7957-244b-43cd-8248-64b2d643e46d",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D1794.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "eedbb12e-2c39-4587-8f00-bbd42f0734a1",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D203.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "078b06b6-b0d5-4ba9-a918-03c5cfacc9cb",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D204.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "4ef4807a-2ee0-4578-88b4-a7058ff80c1e",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D208.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "49087e19-08a5-46d6-ae53-40af8165b9ec",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D209.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "d4efc578-2d93-4ed2-8e63-3397daea4125",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D211.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "ed4819f0-8113-4885-86c9-a852a577aa79",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D212.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "cee472c2-aab2-4c06-83ab-138a30862a26",
+        "name": "Pulsera Perlas",
+        "image": "Pulsera Perlas D240.png",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "30b20d92-6d8d-4a95-b5fd-0face8729f9e",
+        "name": "Pulsera Serpiente",
+        "image": "Pulsera Serpiente D2516.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "0263b65a-d670-48df-9bc1-4c7acc9608f2",
+        "name": "Pulsera Trébol",
+        "image": "Pulsera Trébol D1582.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "a0b4ef0b-a796-49b6-9190-7283985710fa",
+        "name": "Pulsera Trébol",
+        "image": "Pulsera Trébol D2147.jpeg",
+        "categoria": "pulseras"
+    },
+    {
+        "id": "8040caec-c19f-4407-9101-b643edd439e4",
+        "name": "Pulsera Trébol",
+        "image": "Pulsera Trébol D2149.jpeg",
+        "categoria": "pulseras"
+    }
+]

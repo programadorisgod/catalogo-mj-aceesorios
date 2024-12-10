@@ -1,0 +1,216 @@
+---
+import { Image } from "astro:assets";
+import search from "../assets/search.svg";
+import chevronDown from "../assets/chevron-down.svg";
+---
+
+<div class="container">
+  <header>
+    <h1 class="title">Catálogo MJ Accesorios</h1>
+    <div class="container-search">
+      <div class="container-input-search">
+        <input
+          class="input-search"
+          type="text"
+          aria-label="Buscar productos"
+          placeholder="Buscar productos..."
+        />
+        <Image
+          height={24}
+          width={24}
+          class={"icon-search"}
+          src={search}
+          alt={"Icon search proudct"}
+        />
+      </div>
+
+      <div class="select-category" id="select-category">
+        <span id="category-text">Categoría</span>
+        <Image
+          class="icon-select-category"
+          src={chevronDown}
+          alt={"chevron Down"}
+          height={24}
+          width={24}
+        />
+        <div class="modal" id="category-modal">
+          <ul id="category-list"></ul>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="container-cards">
+    <section class="contaner-section-cards"></section>
+    <div class="load-more-trigger"></div>
+  </main>
+</div>
+
+<script src="../assets/lazyLoad.js"></script>
+<style is:global>
+  :root {
+    --width: 28em;
+    --height: 2em;
+    --border-color: #e4e4e7;
+  }
+  .container {
+    height: 100dvh;
+    padding-bottom: 100px;
+  }
+
+  /** Header */
+  .title {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  /**Search */
+  .container-search {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 2em;
+    justify-content: center;
+    align-items: center;
+  }
+  .container-input-search {
+    position: relative;
+  }
+  .container-input-search input {
+    width: var(--width);
+    height: var(--height);
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    padding: 5px 5px 5px 35px;
+  }
+  .icon-search {
+    position: absolute;
+    left: 8px;
+    top: 8px;
+  }
+
+  .select-category {
+    font-weight: 300;
+    border: 1px solid var(--border-color);
+    width: 10em;
+    height: var(--height);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 2px 10px 2px 10px;
+    position: relative;
+  }
+
+  /**Main */
+
+  .contaner-section-cards {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 2em;
+    place-items: center;
+
+    & article {
+      width: 230px;
+      height: 400px;
+      border: 1px solid var(--border-color);
+      border-radius: 5px;
+      box-shadow: 0 1px 2px 0 rgb(0, 0, 0, 0.05);
+      transition: scale 0.1s ease-out;
+
+      &:hover {
+        scale: 1.1;
+      }
+    }
+
+    & img {
+      object-fit: contain;
+      width: 100%;
+      aspect-ratio: 253 / 253;
+    }
+
+    & main {
+      padding-left: 1em;
+
+      & h2 {
+        font-weight: 400;
+        font-size: 1.25rem;
+        line-height: 1.7rem;
+      }
+
+      & p {
+        color: #abafb6;
+      }
+    }
+  }
+
+  .load-more-trigger {
+    min-height: 1px;
+    background: transparent;
+  }
+
+  /**Modal */
+
+  .modal {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .modal ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .modal li {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .modal li:hover {
+    background-color: #f0f0f0;
+  }
+
+  @media (max-width: 1025px) {
+    .contaner-section-cards {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 768px) {
+    .contaner-section-cards {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 540px) {
+    .contaner-section-cards {
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    .container-input-search {
+      & input {
+        width: 15em;
+      }
+    }
+    .select-category {
+      width: 13.8em;
+    }
+  }
+  @media (max-width: 622px) {
+    .container-search {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+</style>
